@@ -1,4 +1,4 @@
-### Revision downloader
+# Revision downloader
 
 Revision downloader is an AppleScript which allows you to download the source code of all
 revisions of a list of posts. It even downloads **deleted** posts (if you have the
