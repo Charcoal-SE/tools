@@ -31,7 +31,7 @@ you want to use for downloading.
 - Profit!
 - The script might fail under certain circumstances (e.g. a hickup in the Internet
 connection), or it might produce a handful of empty files. In those cases, it is best just
-to delete the already downloaded posts from `input.txt` and start the script again. I\
+to delete the already downloaded posts from `input.txt` and start the script again. I
 haven't seen any rate limiting by Stack Exchange yet.
 
  [1]: http://www.satimage.fr/software/downloads/Satimage411.pkg
