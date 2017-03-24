@@ -24,9 +24,11 @@ needs to be launched.
 want to use for downloading. The file should just contain post IDs, one on each line, like
 this:
 
-    12345
-    12346
-    12347
+```
+12345
+12346
+12347
+```
 
 - Open the `Revision downloader.scpt` file in the Script Editor.
 - In the first lines, define the `base_url` of the Stack Exchange site and the `folder`
