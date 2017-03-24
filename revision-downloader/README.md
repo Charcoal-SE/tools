@@ -21,8 +21,13 @@ needs to be launched.
 - Export the SEDE results as a .CSV file.
 - (Optional) Filter on spam or offensive posts only.
 - Export the values in the `Post ID` column to a new file `input.txt` in the folder you
-want to use for downloading. There are some sample files in the GitHub repository, but be
-sure to rename them (the script is looking for a file named `input.txt`).
+want to use for downloading. The file should just contain post IDs, one on each line, like
+this:
+
+    12345
+    12346
+    12347
+
 - Open the `Revision downloader.scpt` file in the Script Editor.
 - In the first lines, define the `base_url` of the Stack Exchange site and the `folder`
 you want to use for downloading.
