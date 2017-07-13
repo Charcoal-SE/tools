@@ -2,7 +2,7 @@
 
 Revision downloader is an AppleScript which allows you to download the source code of all
 revisions of a list of posts. It even downloads **deleted** posts (if you have the
-privilege to see them – this requires 10k reputation on normal sites and 4k on beta
+privilege to see them – this requires 10k reputation on normal sites and 2k on beta
 sites). This is what makes this script really useful; otherwise, you could just use the
 Stack Exchange API.
 
